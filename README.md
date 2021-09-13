@@ -10,7 +10,7 @@ So here is how this thing works really quickly:
 -i have a twitch account lurking in f1nns twitch chat
 -if someone uses the !stream command or the mods use the !set commands to update the paramters for the !stream command my bot parses it
   
- person  : !stream
+ person  : !stream\n
  f3mmbot : The next stream will be "PO BOXS GAMERS" on today at 8:30 PM UK time. Stream Hype!
   
  or
