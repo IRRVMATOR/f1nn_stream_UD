@@ -15,7 +15,7 @@ So here is how this thing works really quickly:
   
   or
   
-  mod     : !setday today
+  mod     : !setday today  
   f3mmbot : Set the stream day to today
   mod     : !settime 8:30 PM
   f3mmbot : Set the stream time to 8:30 PM
