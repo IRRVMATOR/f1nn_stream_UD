@@ -10,17 +10,17 @@ So here is how this thing works really quickly:
 -i have a twitch account lurking in f1nns twitch chat
 -if someone uses the !stream command or the mods use the !set commands to update the paramters for the !stream command my bot parses it
   
-  person  : !stream
-  f3mmbot : The next stream will be "PO BOXS GAMERS" on today at 8:30 PM UK time. Stream Hype!
+ person  : !stream
+ f3mmbot : The next stream will be "PO BOXS GAMERS" on today at 8:30 PM UK time. Stream Hype!
   
-  or
+ or
   
-  mod     : !setday today  
-  f3mmbot : Set the stream day to today
-  mod     : !settime 8:30 PM
-  f3mmbot : Set the stream time to 8:30 PM
-  mod     : !settitle PO BOXS GAMERS
-  f3mmbot : Set the stream title to PO BOXS GAMERS
+ mod     : !setday today  
+ f3mmbot : Set the stream day to today
+ mod     : !settime 8:30 PM
+ f3mmbot : Set the stream time to 8:30 PM
+ mod     : !settitle PO BOXS GAMERS
+ f3mmbot : Set the stream title to PO BOXS GAMERS
   
   ==> stream_info(title='PO BOXS GAMERS', date='today', time='8:30 PM')
   
