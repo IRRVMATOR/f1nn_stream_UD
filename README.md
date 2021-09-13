@@ -1,5 +1,5 @@
 # f1nn_stream_UD  
-##Source code and description for the Twitter bot @f1nn_stream_UD  
+## Source code and description for the Twitter bot @f1nn_stream_UD  
 Tip (I guess): I have notificaitons for that twitter account turned on, so i get a notification anytime there is an update to the stream schedule  
 
 Ok so here is the code for the twitter bot. If it breaks or you have any suggestions or complaints, feel free to dm me on twitter @IRRVMATOR1 or shoot me an email at IRRVMATOR@gmail.com (tho I would prefer twitter dms).  
